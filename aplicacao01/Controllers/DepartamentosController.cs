@@ -12,9 +12,9 @@ namespace aplicacao01.Controllers
 {
     public class DepartamentosController : Controller
     {
-        private readonly aplicacao01Context _context;
+        private readonly Aplicacao01Context _context;
 
-        public DepartamentosController(aplicacao01Context context)
+        public DepartamentosController(Aplicacao01Context context)
         {
             _context = context;
         }

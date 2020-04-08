@@ -7,9 +7,9 @@ using aplicacao01.Models;
 
 namespace aplicacao01.Data
 {
-    public class aplicacao01Context : DbContext
+    public class Aplicacao01Context : DbContext
     {
-        public aplicacao01Context (DbContextOptions<aplicacao01Context> options)
+        public Aplicacao01Context (DbContextOptions<Aplicacao01Context> options)
             : base(options)
         {
         }

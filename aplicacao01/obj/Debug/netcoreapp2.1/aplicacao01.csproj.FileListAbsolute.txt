@@ -33,5 +33,9 @@ C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicaca
 C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicacao01.genruntimeconfig.cache
 C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicacao01.csproj.CopyComplete
 C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicacao01.csprojAssemblyReference.cache
-C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicacao01.csproj.CoreCompileInputs.cache
 C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Index.cshtml.g.cs
+C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Create.cshtml.g.cs
+C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Delete.cshtml.g.cs
+C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Details.cshtml.g.cs
+C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\Edit.cshtml.g.cs
+C:\Users\Airton\Proj C#\aplicacao01\aplicacao01\obj\Debug\netcoreapp2.1\aplicacao01.csproj.CoreCompileInputs.cache

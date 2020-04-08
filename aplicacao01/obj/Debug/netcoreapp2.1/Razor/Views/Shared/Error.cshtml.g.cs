@@ -7,6 +7,7 @@ namespace AspNetCore
 {
     #line hidden
     using System;
+    using aplicacao01.Models.ViewModels;
     using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
@@ -85,7 +86,7 @@ using aplicacao01.Models;
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<aplicacao01.Models.ViewModels.ErrorViewModel> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<ErrorViewModel> Html { get; private set; }
     }
 }
 #pragma warning restore 1591
