@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Airton\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Airton\\.nuget\\packages"
+    ]
+  }
+}
