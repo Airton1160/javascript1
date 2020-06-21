@@ -1,0 +1,12 @@
+C:\Users\Airton\Proj C#\App02\App02\bin\Debug\App02.exe.config
+C:\Users\Airton\Proj C#\App02\App02\bin\Debug\App02.exe
+C:\Users\Airton\Proj C#\App02\App02\bin\Debug\App02.pdb
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\Desktop Forms crud.csprojAssemblyReference.cache
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.Form1.resources
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.Login.resources
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.MDIParent1.resources
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.Properties.Resources.resources
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\Desktop Forms crud.csproj.GenerateResource.cache
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\Desktop Forms crud.csproj.CoreCompileInputs.cache
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.exe
+C:\Users\Airton\Proj C#\App02\App02\obj\Debug\App02.pdb
